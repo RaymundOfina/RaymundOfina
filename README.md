@@ -9,7 +9,7 @@
 
  ✉️  You can contact me at [RaymundBryanOfina@gmail.com](mailto:RaymundBryanOfina@gmail.com) 
  
- 🧠  I'm learning React framework
+ 🧠  I'm  currently learning React framework
 
 - Skills
 
